@@ -10,7 +10,7 @@
   --themeDotBorder: #010102;
 
   --previewBg: rgb(251, 249, 243, 0.8);
-  --previewShadow: #2bce4183;
+  --previewShadow: rgba(9, 9, 9, 0.356);
 
   --buttonColor: black;
 }
